@@ -2,22 +2,18 @@
 
 # Time management app UI
 
-#Screenshot
-<img src="./screenshot/screen1.png">
-<img src="./screenshot/screen2.png">
-<img src="./screenshot/screen3.png">
+
+- Time management app UI using flutter. 
+
+
+## Screenshot
+
+<div class = "screenshot">
+<img width ="200px" height= "400px" src="./screenshot/screen1.png">
+<img  width ="200px" height= "400px" src="./screenshot/screen2.png">
+<img  width ="200px" height= "400px" src="./screenshot/screen3.png">
+</div>
 
 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
